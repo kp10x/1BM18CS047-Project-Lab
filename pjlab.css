@@ -2,6 +2,8 @@ html,body{
     height: 100%;
     background-image: url("back_img.jpg");
     background-size: cover;
+    font-family: 'Cairo', sans-serif;
+
 }
     
 .container{
